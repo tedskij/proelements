@@ -41,3 +41,5 @@ vendor/*
 #################
 
 **/.env
+
+*.code-workspace
